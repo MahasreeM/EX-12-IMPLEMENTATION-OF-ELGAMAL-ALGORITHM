@@ -82,3 +82,5 @@ int main() {
 <img width="647" height="271" alt="Screenshot 2025-10-25 132954" src="https://github.com/user-attachments/assets/41d36d63-b420-46c0-b18f-aa0cb160533d" />
 
 ## RESULT:
+
+Thus the implemented result was successfully verified.
